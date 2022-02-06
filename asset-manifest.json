@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Emoji_intrepretor/static/css/main.dfb31c19.css",
+    "main.js": "/Emoji_intrepretor/static/js/main.d25ceac6.js",
+    "index.html": "/Emoji_intrepretor/index.html",
+    "main.dfb31c19.css.map": "/Emoji_intrepretor/static/css/main.dfb31c19.css.map",
+    "main.d25ceac6.js.map": "/Emoji_intrepretor/static/js/main.d25ceac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb31c19.css",
+    "static/js/main.d25ceac6.js"
+  ]
+}
